@@ -1,0 +1,8 @@
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\ClassesJDLV.deps.json
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\ClassesJDLV.dll
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\ClassesJDLV.pdb
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\ClassesJDLV.csprojAssemblyReference.cache
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\ClassesJDLV.AssemblyInfoInputs.cache
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\ClassesJDLV.AssemblyInfo.cs
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\ClassesJDLV.dll
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\ClassesJDLV.pdb

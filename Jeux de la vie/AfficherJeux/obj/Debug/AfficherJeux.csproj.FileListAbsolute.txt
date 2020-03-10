@@ -1,0 +1,9 @@
+D:\École\prog 2\Jeux de la vie\AfficherJeux\bin\Debug\AfficherJeux.exe.config
+D:\École\prog 2\Jeux de la vie\AfficherJeux\bin\Debug\AfficherJeux.exe
+D:\École\prog 2\Jeux de la vie\AfficherJeux\bin\Debug\AfficherJeux.pdb
+D:\École\prog 2\Jeux de la vie\AfficherJeux\obj\Debug\AfficherJeux.csprojAssemblyReference.cache
+D:\École\prog 2\Jeux de la vie\AfficherJeux\obj\Debug\AfficherJeux.csproj.CopyComplete
+D:\École\prog 2\Jeux de la vie\AfficherJeux\obj\Debug\AfficherJeux.exe
+D:\École\prog 2\Jeux de la vie\AfficherJeux\obj\Debug\AfficherJeux.pdb
+D:\École\prog 2\Jeux de la vie\AfficherJeux\bin\Debug\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.dll
+D:\École\prog 2\Jeux de la vie\AfficherJeux\bin\Debug\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.pdb

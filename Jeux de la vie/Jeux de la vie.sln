@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfficherJeux", "AfficherJeux\AfficherJeux.csproj", "{58DFE1FA-906C-47EE-9478-F6F182A60AB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie", "ClassesJDLV\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.csproj", "{AC4107CC-694C-4CF9-BE55-9365C67D8900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DFE1FA-906C-47EE-9478-F6F182A60AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DFE1FA-906C-47EE-9478-F6F182A60AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DFE1FA-906C-47EE-9478-F6F182A60AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DFE1FA-906C-47EE-9478-F6F182A60AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4107CC-694C-4CF9-BE55-9365C67D8900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4107CC-694C-4CF9-BE55-9365C67D8900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4107CC-694C-4CF9-BE55-9365C67D8900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4107CC-694C-4CF9-BE55-9365C67D8900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E65A86-DBC1-4973-B7F7-A30C8089C27D}
+	EndGlobalSection
+EndGlobal

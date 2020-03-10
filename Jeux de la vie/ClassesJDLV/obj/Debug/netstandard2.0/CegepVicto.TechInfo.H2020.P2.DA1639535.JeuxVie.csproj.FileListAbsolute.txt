@@ -1,0 +1,8 @@
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.deps.json
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.dll
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\bin\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.pdb
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.csprojAssemblyReference.cache
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.AssemblyInfoInputs.cache
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.AssemblyInfo.cs
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.dll
+D:\École\prog 2\Jeux de la vie\ClassesJDLV\obj\Debug\netstandard2.0\CegepVicto.TechInfo.H2020.P2.DA1639535.JeuxVie.pdb
